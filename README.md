@@ -14,7 +14,7 @@
 
 ## 🌐 在线预览
 
-访问地址：`https://你的用户名.github.io/mech-com-list/`
+访问地址：`https://你的用户名.github.io/sharesu/`
 
 > ⚠️ 页面设有口令保护，请输入正确口令后查看。
 
